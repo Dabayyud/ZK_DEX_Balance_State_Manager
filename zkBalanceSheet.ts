@@ -205,6 +205,5 @@ console.log(history) /**
  */
 console.log(tree.root) // 73213594256254899049289679537305119305340938654512694505830836194824227252n
 
-// User can still resubmit a transaction if the key is deleted as the nonce is still set to one.
 
 
