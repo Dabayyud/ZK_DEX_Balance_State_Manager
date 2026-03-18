@@ -1,5 +1,5 @@
 # ZK DEX: Zero-Knowledge Orderbook DEX with Verifiable Matching
-
+(MADE BY AI, PROMPT WAS TO EXPLAIN THE TECHINICALITIES AND IMPLEMENTATION STEPS OF THE PROTOCOL) 
 > **🔒 Privacy-First Trading Protocol with Zero-Knowledge Cryptography**
 
 A sophisticated implementation of a **privacy-preserving decentralized exchange** leveraging **Sparse Merkle Trees (SMT)** and **zero-knowledge cryptography**. This protocol combines TypeScript execution logic with Solidity smart contracts, utilizing **Poseidon hashing** for cryptographically secure state management.
